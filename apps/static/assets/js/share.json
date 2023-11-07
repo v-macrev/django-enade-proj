@@ -1,0 +1,649 @@
+
+    {
+        "label": "Janeiro",
+        "bu": "Brace Pharma",
+        "segmento": "PX",
+        "value": 0.0016
+    },
+    {
+        "label": "Janeiro",
+        "bu": "EMS",
+        "segmento": "SIM",
+        "value": 0.0064
+    },
+    {
+        "label": "Janeiro",
+        "bu": "EMS",
+        "segmento": "PX",
+        "value": 0.0228
+    },
+    {
+        "label": "Janeiro",
+        "bu": "EMS",
+        "segmento": "GEN",
+        "value": 0.0254
+    },
+    {
+        "label": "Janeiro",
+        "bu": "EMS",
+        "segmento": "OTC",
+        "value": 0.0013
+    },
+    {
+        "label": "Janeiro",
+        "bu": "Germed",
+        "segmento": "GEN",
+        "value": 0.0093
+    },
+    {
+        "label": "Janeiro",
+        "bu": "Legrand",
+        "segmento": "SIM",
+        "value": 0.0067
+    },
+    {
+        "label": "Janeiro",
+        "bu": "Legrand",
+        "segmento": "GEN",
+        "value": 0.0028
+    },
+    {
+        "label": "Janeiro",
+        "bu": "Multilab",
+        "segmento": "SIM",
+        "value": 0.0028
+    },
+    {
+        "label": "Janeiro",
+        "bu": "Nova Química",
+        "segmento": "GEN",
+        "value": 0.0059
+    },
+    {
+        "label": "Janeiro",
+        "bu": "Ofta Vision Health",
+        "segmento": "OFTA",
+        "value": 0.0013
+    },
+    {
+        "label": "Janeiro",
+        "bu": "USK Dermatology",
+        "segmento": "USK Dermatology",
+        "value": 0.0008
+    },
+    {
+        "label": "Fevereiro",
+        "bu": "Brace Pharma",
+        "segmento": "PX",
+        "value": 0.0015
+    },
+    {
+        "label": "Fevereiro",
+        "bu": "EMS",
+        "segmento": "SIM",
+        "value": 0.0062
+    },
+    {
+        "label": "Fevereiro",
+        "bu": "EMS",
+        "segmento": "PX",
+        "value": 0.0228
+    },
+    {
+        "label": "Fevereiro",
+        "bu": "EMS",
+        "segmento": "GEN",
+        "value": 0.0246
+    },
+    {
+        "label": "Fevereiro",
+        "bu": "EMS",
+        "segmento": "OTC",
+        "value": 0.0014
+    },
+    {
+        "label": "Fevereiro",
+        "bu": "Germed",
+        "segmento": "GEN",
+        "value": 0.0096
+    },
+    {
+        "label": "Fevereiro",
+        "bu": "Legrand",
+        "segmento": "SIM",
+        "value": 0.0067
+    },
+    {
+        "label": "Fevereiro",
+        "bu": "Legrand",
+        "segmento": "GEN",
+        "value": 0.0026
+    },
+    {
+        "label": "Fevereiro",
+        "bu": "Multilab",
+        "segmento": "SIM",
+        "value": 0.0027
+    },
+    {
+        "label": "Fevereiro",
+        "bu": "Nova Química",
+        "segmento": "GEN",
+        "value": 0.0056
+    },
+    {
+        "label": "Fevereiro",
+        "bu": "Ofta Vision Health",
+        "segmento": "OFTA",
+        "value": 0.0013
+    },
+    {
+        "label": "Fevereiro",
+        "bu": "USK Dermatology",
+        "segmento": "USK Dermatology",
+        "value": 0.0008
+    },
+    {
+        "label": "Março",
+        "bu": "Brace Pharma",
+        "segmento": "PX",
+        "value": 0.0014
+    },
+    {
+        "label": "Março",
+        "bu": "EMS",
+        "segmento": "SIM",
+        "value": 0.0067
+    },
+    {
+        "label": "Março",
+        "bu": "EMS",
+        "segmento": "PX",
+        "value": 0.0225
+    },
+    {
+        "label": "Março",
+        "bu": "EMS",
+        "segmento": "GEN",
+        "value": 0.0249
+    },
+    {
+        "label": "Março",
+        "bu": "EMS",
+        "segmento": "OTC",
+        "value": 0.0014
+    },
+    {
+        "label": "Março",
+        "bu": "Germed",
+        "segmento": "GEN",
+        "value": 0.0104
+    },
+    {
+        "label": "Março",
+        "bu": "Legrand",
+        "segmento": "SIM",
+        "value": 0.0082
+    },
+    {
+        "label": "Março",
+        "bu": "Legrand",
+        "segmento": "GEN",
+        "value": 0.0027
+    },
+    {
+        "label": "Março",
+        "bu": "Multilab",
+        "segmento": "SIM",
+        "value": 0.0031
+    },
+    {
+        "label": "Março",
+        "bu": "Nova Química",
+        "segmento": "GEN",
+        "value": 0.0056
+    },
+    {
+        "label": "Março",
+        "bu": "Ofta Vision Health",
+        "segmento": "OFTA",
+        "value": 0.0013
+    },
+    {
+        "label": "Março",
+        "bu": "USK Dermatology",
+        "segmento": "USK Dermatology",
+        "value": 0.0008
+    },
+    {
+        "label": "Abril",
+        "bu": "Brace Pharma",
+        "segmento": "PX",
+        "value": 0.0014
+    },
+    {
+        "label": "Abril",
+        "bu": "EMS",
+        "segmento": "SIM",
+        "value": 0.0071
+    },
+    {
+        "label": "Abril",
+        "bu": "EMS",
+        "segmento": "PX",
+        "value": 0.0227
+    },
+    {
+        "label": "Abril",
+        "bu": "EMS",
+        "segmento": "GEN",
+        "value": 0.0253
+    },
+    {
+        "label": "Abril",
+        "bu": "EMS",
+        "segmento": "OTC",
+        "value": 0.0016
+    },
+    {
+        "label": "Abril",
+        "bu": "Germed",
+        "segmento": "GEN",
+        "value": 0.0103
+    },
+    {
+        "label": "Abril",
+        "bu": "Legrand",
+        "segmento": "SIM",
+        "value": 0.0088
+    },
+    {
+        "label": "Abril",
+        "bu": "Legrand",
+        "segmento": "GEN",
+        "value": 0.0033
+    },
+    {
+        "label": "Abril",
+        "bu": "Multilab",
+        "segmento": "SIM",
+        "value": 0.0034
+    },
+    {
+        "label": "Abril",
+        "bu": "Nova Química",
+        "segmento": "GEN",
+        "value": 0.0056
+    },
+    {
+        "label": "Abril",
+        "bu": "Ofta Vision Health",
+        "segmento": "OFTA",
+        "value": 0.0013
+    },
+    {
+        "label": "Abril",
+        "bu": "USK Dermatology",
+        "segmento": "USK Dermatology",
+        "value": 0.0008
+    },
+    {
+        "label": "Maio",
+        "bu": "Brace Pharma",
+        "segmento": "PX",
+        "value": 0.0013
+    },
+    {
+        "label": "Maio",
+        "bu": "EMS",
+        "segmento": "SIM",
+        "value": 0.0075
+    },
+    {
+        "label": "Maio",
+        "bu": "EMS",
+        "segmento": "PX",
+        "value": 0.0221
+    },
+    {
+        "label": "Maio",
+        "bu": "EMS",
+        "segmento": "GEN",
+        "value": 0.025
+    },
+    {
+        "label": "Maio",
+        "bu": "EMS",
+        "segmento": "OTC",
+        "value": 0.0017
+    },
+    {
+        "label": "Maio",
+        "bu": "Germed",
+        "segmento": "GEN",
+        "value": 0.0099
+    },
+    {
+        "label": "Maio",
+        "bu": "Legrand",
+        "segmento": "SIM",
+        "value": 0.0089
+    },
+    {
+        "label": "Maio",
+        "bu": "Legrand",
+        "segmento": "GEN",
+        "value": 0.0039
+    },
+    {
+        "label": "Maio",
+        "bu": "Multilab",
+        "segmento": "SIM",
+        "value": 0.0033
+    },
+    {
+        "label": "Maio",
+        "bu": "Nova Química",
+        "segmento": "GEN",
+        "value": 0.0054
+    },
+    {
+        "label": "Maio",
+        "bu": "Ofta Vision Health",
+        "segmento": "OFTA",
+        "value": 0.0013
+    },
+    {
+        "label": "Maio",
+        "bu": "USK Dermatology",
+        "segmento": "USK Dermatology",
+        "value": 0.0008
+    },
+    {
+        "label": "Junho",
+        "bu": "Brace Pharma",
+        "segmento": "PX",
+        "value": 0.0013
+    },
+    {
+        "label": "Junho",
+        "bu": "EMS",
+        "segmento": "SIM",
+        "value": 0.0073
+    },
+    {
+        "label": "Junho",
+        "bu": "EMS",
+        "segmento": "PX",
+        "value": 0.0226
+    },
+    {
+        "label": "Junho",
+        "bu": "EMS",
+        "segmento": "GEN",
+        "value": 0.0256
+    },
+    {
+        "label": "Junho",
+        "bu": "EMS",
+        "segmento": "OTC",
+        "value": 0.0016
+    },
+    {
+        "label": "Junho",
+        "bu": "Germed",
+        "segmento": "GEN",
+        "value": 0.0103
+    },
+    {
+        "label": "Junho",
+        "bu": "Legrand",
+        "segmento": "SIM",
+        "value": 0.0087
+    },
+    {
+        "label": "Junho",
+        "bu": "Legrand",
+        "segmento": "GEN",
+        "value": 0.0037
+    },
+    {
+        "label": "Junho",
+        "bu": "Multilab",
+        "segmento": "SIM",
+        "value": 0.0034
+    },
+    {
+        "label": "Junho",
+        "bu": "Nova Química",
+        "segmento": "GEN",
+        "value": 0.0054
+    },
+    {
+        "label": "Junho",
+        "bu": "Ofta Vision Health",
+        "segmento": "OFTA",
+        "value": 0.0013
+    },
+    {
+        "label": "Junho",
+        "bu": "USK Dermatology",
+        "segmento": "USK Dermatology",
+        "value": 0.0008
+    },
+    {
+        "label": "Julho",
+        "bu": "Brace Pharma",
+        "segmento": "PX",
+        "value": 0.0014
+    },
+    {
+        "label": "Julho",
+        "bu": "EMS",
+        "segmento": "SIM",
+        "value": 0.0071
+    },
+    {
+        "label": "Julho",
+        "bu": "EMS",
+        "segmento": "PX",
+        "value": 0.0234
+    },
+    {
+        "label": "Julho",
+        "bu": "EMS",
+        "segmento": "GEN",
+        "value": 0.0262
+    },
+    {
+        "label": "Julho",
+        "bu": "EMS",
+        "segmento": "OTC",
+        "value": 0.0017
+    },
+    {
+        "label": "Julho",
+        "bu": "Germed",
+        "segmento": "GEN",
+        "value": 0.0103
+    },
+    {
+        "label": "Julho",
+        "bu": "Legrand",
+        "segmento": "SIM",
+        "value": 0.0086
+    },
+    {
+        "label": "Julho",
+        "bu": "Legrand",
+        "segmento": "GEN",
+        "value": 0.0040
+    },
+    {
+        "label": "Julho",
+        "bu": "Multilab",
+        "segmento": "SIM",
+        "value": 0.0029
+    },
+    {
+        "label": "Julho",
+        "bu": "Nova Química",
+        "segmento": "GEN",
+        "value": 0.0055
+    },
+    {
+        "label": "Julho",
+        "bu": "Ofta Vision Health",
+        "segmento": "OFTA",
+        "value": 0.0014
+    },
+    {
+        "label": "Julho",
+        "bu": "USK Dermatology",
+        "segmento": "USK Dermatology",
+        "value": 0.0008
+    },
+    {
+        "label": "Agosto",
+        "bu": "Brace Pharma",
+        "segmento": "PX",
+        "value": 0.0014
+    },
+    {
+        "label": "Agosto",
+        "bu": "EMS",
+        "segmento": "SIM",
+        "value": 0.0071
+    },
+    {
+        "label": "Agosto",
+        "bu": "EMS",
+        "segmento": "PX",
+        "value": 0.0227
+    },
+    {
+        "label": "Agosto",
+        "bu": "EMS",
+        "segmento": "GEN",
+        "value": 0.0263
+    },
+    {
+        "label": "Agosto",
+        "bu": "EMS",
+        "segmento": "OTC",
+        "value": 0.0015
+    },
+    {
+        "label": "Agosto",
+        "bu": "Germed",
+        "segmento": "GEN",
+        "value": 0.0102
+    },
+    {
+        "label": "Agosto",
+        "bu": "Legrand",
+        "segmento": "SIM",
+        "value": 0.0077
+    },
+    {
+        "label": "Agosto",
+        "bu": "Legrand",
+        "segmento": "GEN",
+        "value": 0.0042
+    },
+    {
+        "label": "Agosto",
+        "bu": "Multilab",
+        "segmento": "SIM",
+        "value": 0.0030
+    },
+    {
+        "label": "Agosto",
+        "bu": "Nova Química",
+        "segmento": "GEN",
+        "value": 0.0058
+    },
+    {
+        "label": "Agosto",
+        "bu": "Ofta Vision Health",
+        "segmento": "OFTA",
+        "value": 0.0015
+    },
+    {
+        "label": "Agosto",
+        "bu": "USK Dermatology",
+        "segmento": "USK Dermatology",
+        "value": 0.0008
+    },
+    {
+        "label": "Setembro",
+        "bu": "Brace Pharma",
+        "segmento": "PX",
+        "value": 0.0014
+    },
+    {
+        "label": "Setembro",
+        "bu": "EMS",
+        "segmento": "SIM",
+        "value": 0.0064
+    },
+    {
+        "label": "Setembro",
+        "bu": "EMS",
+        "segmento": "PX",
+        "value": 0.0234
+    },
+    {
+        "label": "Setembro",
+        "bu": "EMS",
+        "segmento": "GEN",
+        "value": 0.0251
+    },
+    {
+        "label": "Setembro",
+        "bu": "EMS",
+        "segmento": "OTC",
+        "value": 0.0013
+    },
+    {
+        "label": "Setembro",
+        "bu": "Germed",
+        "segmento": "GEN",
+        "value": 0.0100
+    },
+    {
+        "label": "Setembro",
+        "bu": "Legrand",
+        "segmento": "SIM",
+        "value": 0.0067
+    },
+    {
+        "label": "Setembro",
+        "bu": "Legrand",
+        "segmento": "GEN",
+        "value": 0.0036
+    },
+    {
+        "label": "Setembro",
+        "bu": "Multilab",
+        "segmento": "SIM",
+        "value": 0.0025
+    },
+    {
+        "label": "Setembro",
+        "bu": "Nova Química",
+        "segmento": "GEN",
+        "value": 0.0053
+    },
+    {
+        "label": "Setembro",
+        "bu": "Ofta Vision Health",
+        "segmento": "OFTA",
+        "value": 0.0014
+    },
+    {
+        "label": "Setembro",
+        "bu": "USK Dermatology",
+        "segmento": "USK Dermatology",
+        "value": 0.0008
+    }
