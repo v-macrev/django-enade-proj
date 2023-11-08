@@ -3,7 +3,7 @@ body {
 }
 
 body.dark-page {
-  background-color: #040D12;
+  background-color: #131F24;
   color: #d7d7d7 !important;
   color: #d7d7d7 !important;
 }
@@ -17,7 +17,7 @@ body.dark-page .text-gradient.text-dark {
   background-image: linear-gradient(310deg, #a8a8a8, #ffffff);
 }
 body.dark-page .fixed-plugin .fixed-plugin-button {
-  background-color: #040D12;
+  background-color: #131F24;
   color: #d7d7d7 !important;
 }
 body.dark-page .sidenav-header .navbar-brand {
@@ -39,11 +39,11 @@ body.dark-page .table > :not(:last-child) > :last-child > * {
   border-bottom-color: rgba(85, 119, 154, 0.2784313725);
 }
 body.dark-page .dropdown-menu {
-  background-color: #040D12;
+  background-color: #131F24;
   color: #d7d7d7 !important;
 }
 body.dark-page .dropdown-menu:before {
-  color: #040D12 !important;
+  color: #131F24 !important;
 }
 body.dark-page .dropdown-menu a {
   color: #d7d7d7 !important;
@@ -57,11 +57,11 @@ body.dark-page .input-group span, body.dark-page .input-group input {
 }
 body.dark-page .navbar-main:not(.bg-transparent) .input-group span, body.dark-page .navbar-main:not(.bg-transparent) .input-group input {
   background-color: #183D3D !important;
-  border-color: #040D12;
+  border-color: #131F24;
 }
 body.dark-page .navbar-main.blur {
   background-color: rgba(24, 61, 61, 0.5) !important;
-  border-color: #040D12;
+  border-color: #131F24;
   box-shadow: none !important;
 }
 body.dark-page .navbar-main.blur .nav-link {
@@ -91,7 +91,7 @@ body.dark-page .nav.nav-pills .nav-link {
 }
 body.dark-page .moving-tab .nav-link.active {
   box-shadow: 0 1px 5px 1px rgba(55, 68, 104, 0.8784313725);
-  background: #040D12;
+  background: #131F24;
 }
 body.dark-page .shadow-blur {
   box-shadow: inset 0 0 2px rgba(254, 254, 254, 0.82) !important;
@@ -122,9 +122,9 @@ body.dark-page input {
 body.dark-page input.form-control:focus {
   color: #d7d7d7 !important;
   background-color: rgba(24, 61, 61, 0.6);
-  border-color: #040D12;
+  border-color: #131F24;
   outline: 0;
-  box-shadow: 0 0 0 2px #040D12;
+  box-shadow: 0 0 0 2px #131F24;
 }
 
 body.dark-page .progress {
@@ -145,9 +145,9 @@ body.dark-page select {
 body.dark-page select.form-select:focus {
   color: #d7d7d7 !important;
   background-color: rgba(24, 61, 61, 0.6);
-  border-color: #040D12;
+  border-color: #131F24;
   outline: 0;
-  box-shadow: 0 0 0 2px #040D12;
+  box-shadow: 0 0 0 2px #131F24;
 }
 
 body.dark-page .select2-container .select2-selection--single {
@@ -192,7 +192,7 @@ body.dark-page .select2-container--default .select2-selection--single .select2-s
 }
 
 body.dark-page .sidenav{
-  background-color: #040D12 !important;
+  background-color: #131F24 !important;
 }
 
 body.dark-page .modal {

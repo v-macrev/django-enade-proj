@@ -98,8 +98,8 @@ else:
         'default': {
             'ENGINE': 'django.db.backends.mysql',
             'NAME': 'enade-proj',
-            'USER': 'enade-proj',
-            'PASSWORD': 'gTB7Wa*[E9(ih5Fz',
+            'USER': 'macrev',
+            'PASSWORD': 'PAx3UyvM53IJwN80',
             'HOST': '127.0.0.1',
             'PORT': 3306,
         },
