@@ -11,7 +11,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(__file__))
 CORE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # Take environment variables from .env file
-environ.Env.read_env(os.path.join(BASE_DIR, '.env'))
+environ.Env.read_env(os.path.join(BASE_DIR, 'env_file'))
 
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = env('SECRET_KEY', default='S#perS3crEt_007')
@@ -35,6 +35,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'apps.provas',
     'apps.home'  # Enable the inner home (home)
     
 ]
@@ -83,26 +84,17 @@ WSGI_APPLICATION = 'core.wsgi.application'
 
 if os.environ.get('DB_ENGINE') and os.environ.get('DB_ENGINE') == "mysql":
     DATABASES = { 
-        'default': {
-            'ENGINE': 'django.db.backends.mysql',
-            'NAME': 'enade-proj',
-            'USER': 'enade-proj',
-            'PASSWORD': 'gTB7Wa*[E9(ih5Fz',
-            'HOST': '127.0.0.1',
-            'PORT': 3306,  # Default MySQL port
-        },
+      'default': {
+        'ENGINE'  : os.getenv('DB_ENGINE'), 
+        'NAME'  : os.path.join(BASE_DIR, os.getenv('DB_NAME')),
+      },
     }
 else:
-    # Assuming you want to use MySQL for the default case as well
-    DATABASES = {
-        'default': {
-            'ENGINE': 'django.db.backends.mysql',
-            'NAME': 'enade-proj',
-            'USER': 'macrev',
-            'PASSWORD': 'PAx3UyvM53IJwN80',
-            'HOST': '127.0.0.1',
-            'PORT': 3306,
-        },
+    DATABASES = { 
+      'default': {
+        'ENGINE'  : os.getenv('DB_ENGINE'), 
+        'NAME'  : os.path.join(BASE_DIR, os.getenv('DB_NAME')),
+      },
     }
 
     

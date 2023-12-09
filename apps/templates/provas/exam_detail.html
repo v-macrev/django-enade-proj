@@ -1,0 +1,36 @@
+{% extends 'layouts/base.html' %}
+
+{% block title %} {{ provas.title }} {% endblock title %}
+
+<!-- Specific CSS goes HERE -->
+{% block stylesheets %}{% endblock stylesheets %}
+
+{% block content %}
+
+<form method="post" action="{% url 'check_answers' provas.id %}">
+  {% csrf_token %}
+  <h1>{{ provas.title }}</h1>
+  <p>{{ provas.description }}</p>
+  <img src="{{ provas.image.url }}" alt="{{ provas.title }} Image">
+  <h2>Questions:</h2>
+  <ul>
+    {% for question in questions %}
+      <li>{{ question.text }}</li>
+      <ul>
+        {% for item in answers %}
+          <li>
+            <input type="radio" name="question_{{ question.id }}" value="{{ item.id }}">
+            {{ item.text }} {% if item.is_correct %}(Correct){% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+    {% endfor %}
+  </ul>
+  <button type="submit">Submit Answers</button>
+</form>
+
+{% include "includes/footer.html" %}
+{% endblock content %}
+
+<!-- Specific JS goes HERE -->
+{% block javascripts %}{% endblock javascripts %}
